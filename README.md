@@ -1,4 +1,5 @@
 # repogit
 Primer repositorio
 
-# Documentacion 1 (dev1)
+# Documentacion 2 (dev2)
+Documentación del desarrollador 2
